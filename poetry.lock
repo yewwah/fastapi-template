@@ -2567,13 +2567,13 @@ typing-extensions = ">=4.7.0"
 
 [[package]]
 name = "pymdown-extensions"
-version = "10.8.1"
+version = "10.10.1"
 description = "Extension pack for Python Markdown."
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "pymdown_extensions-10.8.1-py3-none-any.whl", hash = "sha256:f938326115884f48c6059c67377c46cf631c733ef3629b6eed1349989d1b30cb"},
-    {file = "pymdown_extensions-10.8.1.tar.gz", hash = "sha256:3ab1db5c9e21728dabf75192d71471f8e50f216627e9a1fa9535ecb0231b9940"},
+    {file = "pymdown_extensions-10.10.1-py3-none-any.whl", hash = "sha256:6c74ea6c2e2285186a241417480fc2d3cc52941b3ec2dced4014c84dc78c5493"},
+    {file = "pymdown_extensions-10.10.1.tar.gz", hash = "sha256:ad277ee4739ced051c3b6328d22ce782358a3bec39bc6ca52815ccbf44f7acdc"},
 ]
 
 [package.dependencies]
@@ -4185,4 +4185,4 @@ test = ["big-O", "jaraco.functools", "jaraco.itertools", "jaraco.test", "more-it
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.9,<4.0"
-content-hash = "679776a8bfe030e0fb93dbeefbb4418fe76a45f03a0da5c2e451e4703c65f91a"
+content-hash = "0bda392596de65fda69bd209aad9aec79a3fdc6c7f0e9d940408df7e23da4ba5"
